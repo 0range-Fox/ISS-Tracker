@@ -1,0 +1,31 @@
+# 🚀 ISS Tracker GUI
+
+
+## IMPORTANT FOR RUNNING THE ISS TRACKER:
+
+BEFORE RUNNNING IT: 
+1-RIGHT CLICK ON ISS_TRACKER.PY
+2-CHOOSE OPEN WITH PYHTON
+3-CLICK ON THE APP ITSELF (ISS_TRACKER.PY)
+4-TO SEE THE LATEST LOCATION RESTART IT (CLOSE IT AND REOPEN IT)
+
+
+## 🧰 Technologies Used
+- Python
+- Folium
+- Requests
+- PyWebView
+
+## 📝 Features
+
+- Real-time ISS location fetched from API
+- Interactive map view
+- ISS icon shows the exact location on the map
+- Simple GUI window
+
+## 📦 Installation
+
+Before running the app, make sure Python is installed and then install the required libraries:
+
+```bash
+pip install requests folium pywebview
